@@ -1,0 +1,10 @@
+pandas
+numpy
+jupyter
+matplotlib
+seaborn
+pyarrow
+fastparquet
+calmap
+scikit-learn
+lightgbm
