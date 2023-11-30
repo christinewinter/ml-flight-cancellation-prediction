@@ -8,3 +8,4 @@ fastparquet
 calmap
 scikit-learn
 lightgbm
+shap
